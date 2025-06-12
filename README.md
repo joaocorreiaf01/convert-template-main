@@ -33,6 +33,3 @@ git commit -m "Adicionar minhas modificações"
 git push -u origin master
 ```
 
-Isso configurará o repositório remoto e enviará suas modificações para lá.
-
-🎉 Espero que este guia passo a passo tenha sido útil para você abrir e explorar o projeto utilizando Laravel, Docker e React. Sinta-se à vontade para adaptar as instruções de acordo com a estrutura do seu projeto específico. Divirta-se codificando! 😄
